@@ -27,7 +27,7 @@
 - :iphone: Exploring React Native
 - :zap: Love JavaScript and React
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: 
+- :trophy: Building a Face Recognition Project for my Final project 
 - :art: Enjoy creating beautiful and responsive UIs
 - :star: Passionate about open source contributions<br>
 
