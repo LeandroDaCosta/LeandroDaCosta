@@ -47,6 +47,7 @@
 
 - Configuration of authentication access systems using biometric data
 - Development of QHSE forms for compliance
+- Teach people microsft tools (Outlok, Teams, Excel)
 
 ### Co-Founder at startup EcooAfrica - FrontEnd and Design 
 *21/10/2021 - Current*
