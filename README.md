@@ -29,7 +29,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Building a Face Recognition Project for my Final project 
 - :art: Enjoy creating beautiful and responsive UIs
-- :star: Passionate about open source contributions<br>
+- :star: <br>
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="briefcase" width="20"> Professional Experience:
